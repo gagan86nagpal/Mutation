@@ -1,0 +1,11 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.file.import,1450077220638
+executed,command,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.file.import,1450077220638
+activated,editor,org.eclipse.jdt.ui,3.4.2.r342_v20090107-0800,org.eclipse.jdt.ui.CompilationUnitEditor,1450077223956
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450077235071
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450077301578
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450077302957
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450077304473
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450077304725
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1450077305157
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1450077305190

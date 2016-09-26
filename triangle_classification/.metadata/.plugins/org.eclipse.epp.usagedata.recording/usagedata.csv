@@ -1,0 +1,6 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450974578961
+activated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450974580257
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1450974580486
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1450974581100
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1450974581133

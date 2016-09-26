@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="48" version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1024" x="156" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="279" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.rational.clearcase.ActionSet" itemType="typeToolBarContribution" x="406" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1426005667160" focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="2"/>
+<part id="3"/>
+<part id="0"/>
+<part id="1"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tc3.java" partName="tc3.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/tc3.java" title="tc3.java" tooltip="triangle_classification/test/test/tc3.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/tc3.java"/>
+<editorState selectionLength="0" selectionOffset="542"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tritypTest.java" partName="tritypTest.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/classes/classes/tritypTest.java" title="tritypTest.java" tooltip="triangle_classification/classes/classes/tritypTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/classes/classes/tritypTest.java"/>
+<editorState selectionLength="0" selectionOffset="618"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tc1.java" partName="tc1.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/tc1.java" title="tc1.java" tooltip="triangle_classification/test/test/tc1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/tc1.java"/>
+<editorState selectionLength="0" selectionOffset="161"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tc2.java" partName="tc2.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/tc2.java" title="tc2.java" tooltip="triangle_classification/test/test/tc2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/tc2.java"/>
+<editorState selectionLength="0" selectionOffset="877"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" partName="trityp.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/classes/classes/trityp.java" title="trityp.java" tooltip="triangle_classification/classes/classes/trityp.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/classes/classes/trityp.java"/>
+<editorState selectionLength="0" selectionOffset="627"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="generated_tc.java" partName="generated_tc.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/generated_tc.java" title="generated_tc.java" tooltip="triangle_classification/test/test/generated_tc.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/generated_tc.java"/>
+<editorState selectionLength="0" selectionOffset="155"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="random_tc.java" partName="random_tc.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/random_tc.java" title="random_tc.java" tooltip="triangle_classification/test/test/random_tc.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/random_tc.java"/>
+<editorState selectionLength="0" selectionOffset="296"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="boundary_tc.java" partName="boundary_tc.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/test/test/boundary_tc.java" title="boundary_tc.java" tooltip="triangle_classification/test/test/boundary_tc.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/test/test/boundary_tc.java"/>
+<editorState selectionLength="1387" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" partName="trityp.java" path="F:/D/mtech/IP/4th sem/thesis work/workspace_eclipse/triangle_classification/triangle_classification/SDL_mutants/sdl1/trityp.java" title="trityp.java" tooltip="triangle_classification/SDL_mutants/sdl1/trityp.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/triangle_classification/SDL_mutants/sdl1/trityp.java"/>
+<editorState selectionLength="0" selectionOffset="336"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.jdt.junit.ResultView" partName="JUnit">
+<viewState failuresOnly="false" layout="1" orientation="2" ratio="500" scroll="false" time="true"/>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" showCategories="true"/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState columnWidth0="200" columnWidth1="200" columnWidth2="200"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="com.rational.clearcase.ActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.jdt.junit.ResultView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.21771218" ratioLeft="295" ratioRight="1060" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.83919597" ratioLeft="501" ratioRight="96" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/classes/classes/tritypTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/generated_tc.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/tc3.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/random_tc.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/boundary_tc.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/classes/classes/tritypTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/generated_tc.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/classes/classes/trityp.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/classes/classes/tritypTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/tc1.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/SDL_mutants/sdl1/trityp.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/tc2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/triangle_classification/test/test/tc3.java"/>
+</editors>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="1028" y="194"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="1826" y="893"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="1106" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="3572" y="201"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="4181" y="206"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="726" y="169"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="4812" y="203"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="5758" y="0"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="6586" y="199"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="7424" y="199"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="8046" y="297"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="3279" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="9646" y="208"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="93" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="0">
+<position info="not_deleted" x="9646" y="208"/>
+</item>
+<item historyLabel="generated_tc.java" index="1">
+<position info="not_deleted" x="93" y="0"/>
+</item>
+<item historyLabel="tc3.java" index="2">
+<position/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position/>
+</item>
+<item historyLabel="boundary_tc.java" index="4">
+<position/>
+</item>
+<item historyLabel="tritypTest.java" index="5">
+<position info="not_deleted" x="9067" y="13"/>
+</item>
+<item historyLabel="boundary_tc.java" index="4">
+<position info="not_deleted" x="191" y="13"/>
+</item>
+<item historyLabel="boundary_tc.java" index="4">
+<position info="not_deleted" x="748" y="0"/>
+</item>
+<item historyLabel="boundary_tc.java" index="4">
+<position info="not_deleted" x="810" y="0"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position/>
+</item>
+<item historyLabel="boundary_tc.java" index="4">
+<position info="not_deleted" x="0" y="1387"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position info="not_deleted" x="1441" y="0"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position info="not_deleted" x="1106" y="0"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position info="not_deleted" x="1177" y="56"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position info="not_deleted" x="1052" y="0"/>
+</item>
+<item historyLabel="random_tc.java" index="3">
+<position info="not_deleted" x="250" y="58"/>
+</item>
+<item historyLabel="generated_tc.java" index="6">
+<position/>
+</item>
+<item historyLabel="trityp.java" index="7">
+<position info="not_deleted" x="627" y="0"/>
+</item>
+<item historyLabel="generated_tc.java" index="6">
+<position info="not_deleted" x="360" y="0"/>
+</item>
+<item historyLabel="tritypTest.java" index="8">
+<position info="not_deleted" x="618" y="0"/>
+</item>
+<item historyLabel="generated_tc.java" index="6">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="tc1.java" index="9">
+<position info="not_deleted" x="195" y="0"/>
+</item>
+<item historyLabel="generated_tc.java" index="6">
+<position info="not_deleted" x="155" y="0"/>
+</item>
+<item historyLabel="trityp.java" index="10">
+<position/>
+</item>
+<item historyLabel="tc1.java" index="9">
+<position info="not_deleted" x="195" y="0"/>
+</item>
+<item historyLabel="tc2.java" index="11">
+<position info="not_deleted" x="289" y="0"/>
+</item>
+<item historyLabel="tc1.java" index="9">
+<position info="not_deleted" x="246" y="4"/>
+</item>
+<item historyLabel="tc2.java" index="11">
+<position info="not_deleted" x="289" y="0"/>
+</item>
+<item historyLabel="tc3.java" index="12">
+<position info="not_deleted" x="542" y="0"/>
+</item>
+<item active="true" historyLabel="tc1.java" index="9">
+<position info="not_deleted" x="246" y="4"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/SDL_mutants/sdl1/trityp.java">
+<persistable path="/triangle_classification/SDL_mutants/sdl1/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="boundary_tc.java" tooltip="triangle_classification/test/test/boundary_tc.java">
+<persistable path="/triangle_classification/test/test/boundary_tc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="random_tc.java" tooltip="triangle_classification/test/test/random_tc.java">
+<persistable path="/triangle_classification/test/test/random_tc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="generated_tc.java" tooltip="triangle_classification/test/test/generated_tc.java">
+<persistable path="/triangle_classification/test/test/generated_tc.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/classes/classes/trityp.java">
+<persistable path="/triangle_classification/classes/classes/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tc2.java" tooltip="triangle_classification/test/test/tc2.java">
+<persistable path="/triangle_classification/test/test/tc2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm9/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm9/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="tc1.java" tooltip="triangle_classification/test/test/tc1.java">
+<persistable path="/triangle_classification/test/test/tc1.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm20/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm20/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm19/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm19/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm18/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm18/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm17/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm17/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm15/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm15/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm14/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm14/trityp.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="trityp.java" tooltip="triangle_classification/opr_mutants/oprm11/trityp.java">
+<persistable path="/triangle_classification/opr_mutants/oprm11/trityp.java"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,220 @@
+package test;
+
+//import classes.Roots;
+import junit.framework.*;
+//import SDL_mutants.sdl1.Roots;
+public class tc1 extends TestCase{
+	int a=50, b=100,c=51;	
+	
+	String expop = "scalene";
+	public void testsdl1(){
+		   String actualop = sdl1.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl2(){
+		   String actualop = sdl2.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl3(){
+		   String actualop = sdl3.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl4(){
+		   String actualop = sdl4.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl5(){
+		   String actualop = sdl5.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl6(){
+		   String actualop = sdl6.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl7(){
+		   String actualop = sdl7.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl8(){
+		   String actualop = sdl8.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl9(){
+		   String actualop = sdl9.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl10(){
+		   String actualop = sdl10.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl11(){
+		   String actualop = sdl11.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl12(){
+		   String actualop = sdl12.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl13(){
+		   String actualop = sdl13.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl14(){
+		   String actualop = sdl14.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl15(){
+		   String actualop = sdl15.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl16(){
+		   String actualop = sdl16.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl17(){
+		   String actualop = sdl17.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl18(){
+		   String actualop = sdl18.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl19(){
+		   String actualop = sdl19.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl20(){
+		   String actualop = sdl20.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl21(){
+		   String actualop = sdl21.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl22(){
+		   String actualop = sdl22.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl23(){
+		   String actualop = sdl23.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl24(){
+		   String actualop = sdl24.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl25(){
+		   String actualop = sdl25.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl26(){
+		   String actualop = sdl26.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl27(){
+		   String actualop = sdl27.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl28(){
+		   String actualop = sdl28.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl29(){
+		   String actualop = sdl29.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl30(){
+		   String actualop = sdl30.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl31(){
+		   String actualop = sdl31.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl32(){
+		   String actualop = sdl32.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl33(){
+		   String actualop = sdl33.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testsdl34(){
+		   String actualop = sdl34.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	
+	
+	public void testvarm1(){
+		   String actualop = varm1.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm2(){
+		   String actualop = varm2.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm3(){
+		   String actualop = varm3.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm4(){
+		   String actualop = varm4.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm5(){
+		   String actualop = varm5.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm6(){
+		   String actualop = varm6.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm7(){
+		   String actualop = varm7.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm8(){
+		   String actualop = varm8.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm9(){
+		   String actualop = varm9.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm10(){
+		   String actualop = varm10.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm11(){
+		   String actualop = varm11.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm12(){
+		   String actualop = varm12.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm13(){
+		   String actualop = varm13.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm14(){
+		   String actualop = varm14.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testvarm15(){
+		   String actualop = varm15.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testconm1(){
+		   String actualop = conm1.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testconm2(){
+		   String actualop = conm2.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+	public void testconm3(){
+		   String actualop = conm3.trityp.Triang(a, b, c);	   
+		   assertEquals(expop, actualop);
+	}
+}

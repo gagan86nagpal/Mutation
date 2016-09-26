@@ -1,0 +1,268 @@
+AORB_1:15:java.lang.String_Triang(int,int,int):Side1 + Side2 => Side1 * Side2
+AORB_2:15:java.lang.String_Triang(int,int,int):Side1 + Side2 => Side1 / Side2
+AORB_3:15:java.lang.String_Triang(int,int,int):Side1 + Side2 => Side1 % Side2
+AORB_4:15:java.lang.String_Triang(int,int,int):Side1 + Side2 => Side1 - Side2
+AORB_5:15:java.lang.String_Triang(int,int,int):Side3 + Side1 => Side3 * Side1
+AORB_6:15:java.lang.String_Triang(int,int,int):Side3 + Side1 => Side3 / Side1
+AORB_7:15:java.lang.String_Triang(int,int,int):Side3 + Side1 => Side3 % Side1
+AORB_8:15:java.lang.String_Triang(int,int,int):Side3 + Side1 => Side3 - Side1
+AORB_9:15:java.lang.String_Triang(int,int,int):Side2 + Side3 => Side2 * Side3
+AORB_10:15:java.lang.String_Triang(int,int,int):Side2 + Side3 => Side2 / Side3
+AORB_11:15:java.lang.String_Triang(int,int,int):Side2 + Side3 => Side2 % Side3
+AORB_12:15:java.lang.String_Triang(int,int,int):Side2 + Side3 => Side2 - Side3
+AODU_1:19:java.lang.String_Triang(int,int,int):-1 => 1
+AOIS_1:14:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_2:14:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_3:14:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_4:14:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_5:14:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_6:14:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_7:14:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_8:14:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_9:14:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_10:14:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_11:14:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_12:14:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_13:14:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_14:14:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_15:14:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_16:14:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_17:14:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_18:14:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_19:14:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_20:14:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_21:14:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_22:14:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_23:14:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_24:14:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_25:15:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_26:15:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_27:15:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_28:15:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_29:15:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_30:15:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_31:15:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_32:15:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_33:15:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_34:15:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_35:15:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_36:15:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_37:15:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_38:15:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_39:15:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_40:15:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_41:15:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_42:15:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_43:15:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_44:15:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_45:15:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_46:15:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_47:15:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_48:15:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_49:15:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_50:15:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_51:15:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_52:15:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_53:15:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_54:15:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_55:21:java.lang.String_Triang(int,int,int):validInput => ++validInput
+AOIS_56:21:java.lang.String_Triang(int,int,int):validInput => --validInput
+AOIS_57:21:java.lang.String_Triang(int,int,int):validInput => validInput++
+AOIS_58:21:java.lang.String_Triang(int,int,int):validInput => validInput--
+AOIS_59:22:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_60:22:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_61:22:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_62:22:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_63:22:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_64:22:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_65:22:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_66:22:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_67:22:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_68:22:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_69:22:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_70:22:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_71:22:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_72:22:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_73:22:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_74:22:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_75:25:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_76:25:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_77:25:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_78:25:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_79:25:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_80:25:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_81:25:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_82:25:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_83:25:java.lang.String_Triang(int,int,int):Side2 => ++Side2
+AOIS_84:25:java.lang.String_Triang(int,int,int):Side2 => --Side2
+AOIS_85:25:java.lang.String_Triang(int,int,int):Side2 => Side2++
+AOIS_86:25:java.lang.String_Triang(int,int,int):Side2 => Side2--
+AOIS_87:25:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_88:25:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_89:25:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_90:25:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_91:25:java.lang.String_Triang(int,int,int):Side1 => ++Side1
+AOIS_92:25:java.lang.String_Triang(int,int,int):Side1 => --Side1
+AOIS_93:25:java.lang.String_Triang(int,int,int):Side1 => Side1++
+AOIS_94:25:java.lang.String_Triang(int,int,int):Side1 => Side1--
+AOIS_95:25:java.lang.String_Triang(int,int,int):Side3 => ++Side3
+AOIS_96:25:java.lang.String_Triang(int,int,int):Side3 => --Side3
+AOIS_97:25:java.lang.String_Triang(int,int,int):Side3 => Side3++
+AOIS_98:25:java.lang.String_Triang(int,int,int):Side3 => Side3--
+AOIS_99:32:java.lang.String_Triang(int,int,int):validInput => ++validInput
+AOIS_100:32:java.lang.String_Triang(int,int,int):validInput => --validInput
+AOIS_101:32:java.lang.String_Triang(int,int,int):validInput => validInput++
+AOIS_102:32:java.lang.String_Triang(int,int,int):validInput => validInput--
+ROR_1:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>   Side1 >= 0
+ROR_2:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>   Side1 < 0
+ROR_3:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>   Side1 <= 0
+ROR_4:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>   Side1 == 0
+ROR_5:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>   Side1 != 0
+ROR_6:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>   Side1 > 100
+ROR_7:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>   Side1 >= 100
+ROR_8:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>   Side1 < 100
+ROR_9:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>   Side1 == 100
+ROR_10:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>   Side1 != 100
+ROR_11:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>   Side2 >= 0
+ROR_12:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>   Side2 < 0
+ROR_13:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>   Side2 <= 0
+ROR_14:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>   Side2 == 0
+ROR_15:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>   Side2 != 0
+ROR_16:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>   Side2 > 100
+ROR_17:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>   Side2 >= 100
+ROR_18:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>   Side2 < 100
+ROR_19:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>   Side2 == 100
+ROR_20:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>   Side2 != 100
+ROR_21:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>   Side3 >= 0
+ROR_22:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>   Side3 < 0
+ROR_23:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>   Side3 <= 0
+ROR_24:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>   Side3 == 0
+ROR_25:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>   Side3 != 0
+ROR_26:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>   Side3 > 100
+ROR_27:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>   Side3 >= 100
+ROR_28:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>   Side3 < 100
+ROR_29:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>   Side3 == 100
+ROR_30:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>   Side3 != 100
+ROR_31:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>   Side1 + Side2 >= Side3
+ROR_32:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>   Side1 + Side2 < Side3
+ROR_33:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>   Side1 + Side2 <= Side3
+ROR_34:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>   Side1 + Side2 == Side3
+ROR_35:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>   Side1 + Side2 != Side3
+ROR_36:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>   Side3 + Side1 >= Side2
+ROR_37:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>   Side3 + Side1 < Side2
+ROR_38:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>   Side3 + Side1 <= Side2
+ROR_39:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>   Side3 + Side1 == Side2
+ROR_40:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>   Side3 + Side1 != Side2
+ROR_41:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>   Side2 + Side3 >= Side1
+ROR_42:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>   Side2 + Side3 < Side1
+ROR_43:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>   Side2 + Side3 <= Side1
+ROR_44:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>   Side2 + Side3 == Side1
+ROR_45:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>   Side2 + Side3 != Side1
+ROR_46:21:java.lang.String_Triang(int,int,int): validInput == 1  =>   validInput > 1
+ROR_47:21:java.lang.String_Triang(int,int,int): validInput == 1  =>   validInput >= 1
+ROR_48:21:java.lang.String_Triang(int,int,int): validInput == 1  =>   validInput < 1
+ROR_49:21:java.lang.String_Triang(int,int,int): validInput == 1  =>   validInput <= 1
+ROR_50:21:java.lang.String_Triang(int,int,int): validInput == 1  =>   validInput != 1
+ROR_51:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 > Side2
+ROR_52:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 >= Side2
+ROR_53:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 < Side2
+ROR_54:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 <= Side2
+ROR_55:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 != Side2
+ROR_56:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 > Side3
+ROR_57:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 >= Side3
+ROR_58:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 < Side3
+ROR_59:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 <= Side3
+ROR_60:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 != Side3
+ROR_61:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 > Side2
+ROR_62:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 >= Side2
+ROR_63:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 < Side2
+ROR_64:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 <= Side2
+ROR_65:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>   Side1 != Side2
+ROR_66:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 > Side3
+ROR_67:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 >= Side3
+ROR_68:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 < Side3
+ROR_69:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 <= Side3
+ROR_70:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>   Side2 != Side3
+ROR_71:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>   Side1 > Side3
+ROR_72:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>   Side1 >= Side3
+ROR_73:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>   Side1 < Side3
+ROR_74:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>   Side1 <= Side3
+ROR_75:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>   Side1 != Side3
+ROR_76:32:java.lang.String_Triang(int,int,int): validInput == 0  =>   validInput > 0
+ROR_77:32:java.lang.String_Triang(int,int,int): validInput == 0  =>   validInput >= 0
+ROR_78:32:java.lang.String_Triang(int,int,int): validInput == 0  =>   validInput < 0
+ROR_79:32:java.lang.String_Triang(int,int,int): validInput == 0  =>   validInput <= 0
+ROR_80:32:java.lang.String_Triang(int,int,int): validInput == 0  =>   validInput != 0
+COR_1:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100  =>   Side1 > 0 || Side1 <= 100
+COR_2:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100  =>   Side1 > 0 ^ Side1 <= 100
+COR_3:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0  =>   Side1 > 0 && Side1 <= 100 || Side2 > 0
+COR_4:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0  =>   (Side1 > 0 && Side1 <= 100) ^ Side2 > 0
+COR_5:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100  =>   Side1 > 0 && Side1 <= 100 && Side2 > 0 || Side2 <= 100
+COR_6:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100  =>   (Side1 > 0 && Side1 <= 100 && Side2 > 0) ^ Side2 <= 100
+COR_7:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0  =>   Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 || Side3 > 0
+COR_8:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0  =>   (Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100) ^ Side3 > 0
+COR_9:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0 && Side3 <= 100  =>   Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0 || Side3 <= 100
+COR_10:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0 && Side3 <= 100  =>   (Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0) ^ Side3 <= 100
+COR_11:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2  =>   Side1 + Side2 > Side3 || Side3 + Side1 > Side2
+COR_12:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2  =>   Side1 + Side2 > Side3 ^ Side3 + Side1 > Side2
+COR_13:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2 && Side2 + Side3 > Side1  =>   Side1 + Side2 > Side3 && Side3 + Side1 > Side2 || Side2 + Side3 > Side1
+COR_14:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2 && Side2 + Side3 > Side1  =>   (Side1 + Side2 > Side3 && Side3 + Side1 > Side2) ^ Side2 + Side3 > Side1
+COR_15:22:java.lang.String_Triang(int,int,int): Side1 == Side2 && Side2 == Side3  =>   Side1 == Side2 || Side2 == Side3
+COR_16:22:java.lang.String_Triang(int,int,int): Side1 == Side2 && Side2 == Side3  =>   Side1 == Side2 ^ Side2 == Side3
+COR_17:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3  =>   Side1 == Side2 && Side2 == Side3
+COR_18:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3  =>   Side1 == Side2 ^ Side2 == Side3
+COR_19:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3 || Side1 == Side3  =>   (Side1 == Side2 || Side2 == Side3) && Side1 == Side3
+COR_20:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3 || Side1 == Side3  =>   (Side1 == Side2 || Side2 == Side3) ^ Side1 == Side3
+COI_1:14:java.lang.String_Triang(int,int,int): Side1 > 0  =>  !(Side1 > 0)
+COI_2:14:java.lang.String_Triang(int,int,int): Side1 <= 100  =>  !(Side1 <= 100)
+COI_3:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100  =>  !(Side1 > 0 && Side1 <= 100)
+COI_4:14:java.lang.String_Triang(int,int,int): Side2 > 0  =>  !(Side2 > 0)
+COI_5:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0  =>  !(Side1 > 0 && Side1 <= 100 && Side2 > 0)
+COI_6:14:java.lang.String_Triang(int,int,int): Side2 <= 100  =>  !(Side2 <= 100)
+COI_7:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100  =>  !(Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100)
+COI_8:14:java.lang.String_Triang(int,int,int): Side3 > 0  =>  !(Side3 > 0)
+COI_9:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0  =>  !(Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0)
+COI_10:14:java.lang.String_Triang(int,int,int): Side3 <= 100  =>  !(Side3 <= 100)
+COI_11:14:java.lang.String_Triang(int,int,int): Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0 && Side3 <= 100  =>  !(Side1 > 0 && Side1 <= 100 && Side2 > 0 && Side2 <= 100 && Side3 > 0 && Side3 <= 100)
+COI_12:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3  =>  !(Side1 + Side2 > Side3)
+COI_13:15:java.lang.String_Triang(int,int,int): Side3 + Side1 > Side2  =>  !(Side3 + Side1 > Side2)
+COI_14:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2  =>  !(Side1 + Side2 > Side3 && Side3 + Side1 > Side2)
+COI_15:15:java.lang.String_Triang(int,int,int): Side2 + Side3 > Side1  =>  !(Side2 + Side3 > Side1)
+COI_16:15:java.lang.String_Triang(int,int,int): Side1 + Side2 > Side3 && Side3 + Side1 > Side2 && Side2 + Side3 > Side1  =>  !(Side1 + Side2 > Side3 && Side3 + Side1 > Side2 && Side2 + Side3 > Side1)
+COI_17:21:java.lang.String_Triang(int,int,int): validInput == 1  =>  !(validInput == 1)
+COI_18:22:java.lang.String_Triang(int,int,int): Side1 == Side2  =>  !(Side1 == Side2)
+COI_19:22:java.lang.String_Triang(int,int,int): Side2 == Side3  =>  !(Side2 == Side3)
+COI_20:22:java.lang.String_Triang(int,int,int): Side1 == Side2 && Side2 == Side3  =>  !(Side1 == Side2 && Side2 == Side3)
+COI_21:25:java.lang.String_Triang(int,int,int): Side1 == Side2  =>  !(Side1 == Side2)
+COI_22:25:java.lang.String_Triang(int,int,int): Side2 == Side3  =>  !(Side2 == Side3)
+COI_23:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3  =>  !(Side1 == Side2 || Side2 == Side3)
+COI_24:25:java.lang.String_Triang(int,int,int): Side1 == Side3  =>  !(Side1 == Side3)
+COI_25:25:java.lang.String_Triang(int,int,int): Side1 == Side2 || Side2 == Side3 || Side1 == Side3  =>  !(Side1 == Side2 || Side2 == Side3 || Side1 == Side3)
+COI_26:32:java.lang.String_Triang(int,int,int): validInput == 0  =>  !(validInput == 0)
+LOI_1:14:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_2:14:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_3:14:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_4:14:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_5:14:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_6:14:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_7:15:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_8:15:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_9:15:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_10:15:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_11:15:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_12:15:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_13:15:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_14:15:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_15:15:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_16:21:java.lang.String_Triang(int,int,int):validInput => ~validInput
+LOI_17:22:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_18:22:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_19:22:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_20:22:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_21:25:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_22:25:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_23:25:java.lang.String_Triang(int,int,int):Side2 => ~Side2
+LOI_24:25:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_25:25:java.lang.String_Triang(int,int,int):Side1 => ~Side1
+LOI_26:25:java.lang.String_Triang(int,int,int):Side3 => ~Side3
+LOI_27:32:java.lang.String_Triang(int,int,int):validInput => ~validInput
